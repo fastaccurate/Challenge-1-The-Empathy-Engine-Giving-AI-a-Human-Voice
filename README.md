@@ -64,8 +64,29 @@ An MP3 audio file with speech modulated to sound enthusiastic, with dynamic brea
 - Chunking preserves word integrity to avoid unnatural word cutting during TTS.
 
 ---
+#  Extra Miles Beyond the Original Project
 
-## Future Enhancements
+## What We Added to Make This Project Special:
+
+- **Chunk-wise Speech Synthesis:** Ensured no words are cut by splitting input text into meaningful chunks before synthesis, improving clarity and naturalness.
+
+- **Realistic Breathing Sounds:** Injected audible breathing audio at carefully spaced intervals to mimic human voice patterns and enhance empathy.
+
+- **Dynamic and Longer Pauses:** Added natural, longer pauses after punctuation for better conversational pacing.
+
+- **Stress-Based Loudness Boost:** Amplified volume significantly during emotional or stressed phrases for expressive impact.
+
+- **Slowed Down Speech:** Reduced overall speaking speed by 10% to create a calmer, more thoughtful voice.
+
+- **Audio Post-Processing:** Applied normalization and dynamic compression for consistent volume and pleasant listening experience.
+
+- **Implemented Web UI:** Created an instant, easy-to-use interface to test and listen to emotional TTS outputs live.
+
+---
+
+These enhancements bring the voice closer to genuine human speech, making the AI feel more empathetic and relatable—beyond the basic original requirements.
+
+## Future Enhancements that can be done
 
 - Integrate higher-quality neural TTS APIs supporting emotional control.
 - Add SSML tags for fine-grained prosody control.
