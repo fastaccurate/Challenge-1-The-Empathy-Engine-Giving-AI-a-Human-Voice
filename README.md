@@ -64,7 +64,9 @@ An MP3 audio file with speech modulated to sound enthusiastic, with dynamic brea
 - Chunking preserves word integrity to avoid unnatural word cutting during TTS.
 
 ---
-#  Extra Miles Beyond the Original Project
+
+
+# 🚀 Extra Miles Beyond the Original Project
 
 ## What We Added to Make This Project Special:
 
